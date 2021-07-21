@@ -1,0 +1,2 @@
+depthimage_to_laserscan:ds4_driver:qt_nav:roverrobotics_ros1/roverrobotics_description:roverrobotics_ros1/roverrobotics_driver:roverrobotics_ros1/roverrobotics_input_manager:roverrobotics_ros1/roverrobotics_simulation:rplidar_ros:smb_highlevel_controller:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/rover/catkin_ws_backup/devel -DCMAKE_INSTALL_PREFIX=/home/rover/catkin_ws_backup/install -G Unix Makefiles
